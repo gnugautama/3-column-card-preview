@@ -65,8 +65,8 @@ I still not able to make the card more slimer. So I will continue to search on h
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) - This helped me for setting the padding for the column
-- [Example resource 2](https://getbootstrap.com/docs/5.0/content/images/) - This helped me for setting the image size and position
+- (https://developer.mozilla.org/en-US/docs/Web/CSS/padding) - This helped me for setting the padding for the column
+- (https://getbootstrap.com/docs/5.0/content/images/) - This helped me for setting the image size and position
 
 ## Author
 
