@@ -1,0 +1,81 @@
+.container {
+  padding: 5em;
+}
+
+.img_banner {
+  width: 70px;
+  height: auto;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.card-body {
+  margin-left: 39px;
+  margin-right: 39px;
+}
+
+h5 {
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
+  color: #fff;
+  font-size: 30px;
+}
+
+p {
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.card_one {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.card_two {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.card_three {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.btn {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 13px;
+}
+
+.btn_one {
+  color: hsl(31, 77%, 52%);
+  border-radius: 45px;
+}
+
+.btn_two {
+  color: hsl(184, 100%, 22%);
+  border-radius: 45px;
+}
+
+.btn_three {
+  color: hsl(179, 100%, 13%);
+  border-radius: 45px;
+}
+
+.btn_one:hover {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.btn_two:hover {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.btn_three:hover {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
